@@ -1,0 +1,11 @@
+{
+  "dev": {
+    "apiHost": "http://dev.example/api.com"
+  },
+  "prod": {
+    "apiHost": "https://example/api.com"
+  },
+  "uat": {
+    "apiHost": "http://uat.example/api.com"
+  }
+}
