@@ -1,6 +1,3 @@
-# ringkas-dynamic-links
-
-Handle all redirects and links from the Internet to Ringkas and vice versa.
 
 ## Prerequisites
 
